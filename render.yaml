@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: incognito
+    name: xerox-proxy
     env: node
     region: Oregon
     plan: free
